@@ -1,0 +1,7 @@
+#Tue Apr 04 02:12:48 IST 2017
+base.0=C\:\\Users\\Sibin\\AndroidStudioProjects\\Getaway\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_225e9debb0c9840f124995e9fd246e7b8bccaa36
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\Sibin\\AndroidStudioProjects\\Getaway\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_84b90cde261a8c9d6fae54cb9612ffb2a056e7e5\\classes.dex
+base.1=C\:\\Users\\Sibin\\AndroidStudioProjects\\Getaway\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_84b90cde261a8c9d6fae54cb9612ffb2a056e7e5
+file.0=C\:\\Users\\Sibin\\AndroidStudioProjects\\Getaway\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_225e9debb0c9840f124995e9fd246e7b8bccaa36\\classes.dex
